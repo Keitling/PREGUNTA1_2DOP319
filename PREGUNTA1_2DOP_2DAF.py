@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 10 17:13:22 2022
 
-@author: Flores Salinas
+@author: Keitling Salinas
 """
 
 def fibonacci_iter(n):
