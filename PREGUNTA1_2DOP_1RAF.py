@@ -2,7 +2,7 @@
 """
 Created on Fri Jun 10 17:08:12 2022
 
-@author: Flores Salinas
+@author: Keitling Salinas
 """
 
 from math import sqrt
